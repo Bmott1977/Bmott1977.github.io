@@ -17,4 +17,4 @@ if ( isMorning === true) {
 
 }
 
-localStorage.setItem('Its a secret to everybody.', '100 Rupees')
+localStorage.setItem('It\'s a secret to everybody.', '100 Rupees')
